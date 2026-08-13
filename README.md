@@ -21,6 +21,7 @@ Enter the second x-coordinate: ***(input x2)***
 Enter the second y-coordinate: ***(input y2)***
 
 ## Sample Output
+```markdown
 Enter the 1st x-coordinate: 1
 
 Enter the 1st y-coordinate: 2
@@ -30,6 +31,7 @@ Enter the second x-coordinate: 3
 Enter the second y-coordinate: 4
 
 **Output: The distance BETTWEEN the two points is 8.0**
+```
 
 ## Author
 Name: JOAQUIN ELIJAH R. BLANCAFLOR
